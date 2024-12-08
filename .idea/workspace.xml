@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ee83e7d-180f-497c-8e99-f57603bd4fa6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jlrc2TvRcBtS9qlazWgn9eXW8z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java/Aplikacija/src/main/resources/com/example/aplikacija&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\Aplikacija\src\main\resources\com\example\aplikacija" />
+      <recent name="C:\Java\Aplikacija" />
+      <recent name="C:\Java\Aplikacija\src\main\java\com\example\aplikacija" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\Aplikacija\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.aplikacija" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ee83e7d-180f-497c-8e99-f57603bd4fa6" name="Changes" comment="" />
+      <created>1672663591146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672663591146</updated>
+      <workItem from="1672663592297" duration="108000" />
+      <workItem from="1674909009644" duration="7691000" />
+      <workItem from="1674931637870" duration="4671000" />
+      <workItem from="1674985936987" duration="4707000" />
+      <workItem from="1674998675256" duration="9150000" />
+      <workItem from="1675016661674" duration="2399000" />
+      <workItem from="1675081432619" duration="13867000" />
+      <workItem from="1675110531351" duration="542000" />
+      <workItem from="1675111110417" duration="13000" />
+      <workItem from="1675172482235" duration="10411000" />
+      <workItem from="1675188927956" duration="5876000" />
+      <workItem from="1675196899225" duration="7860000" />
+      <workItem from="1675246754339" duration="4799000" />
+      <workItem from="1675256994688" duration="91000" />
+      <workItem from="1675260253960" duration="13274000" />
+      <workItem from="1675341275488" duration="4904000" />
+      <workItem from="1675350559653" duration="5572000" />
+      <workItem from="1675365709508" duration="7736000" />
+      <workItem from="1675431367342" duration="5412000" />
+      <workItem from="1675449055101" duration="3433000" />
+      <workItem from="1675452695793" duration="20000" />
+      <workItem from="1675608230537" duration="4037000" />
+      <workItem from="1675627399338" duration="4841000" />
+      <workItem from="1675697892093" duration="5557000" />
+      <workItem from="1675786760407" duration="1351000" />
+      <workItem from="1675795320157" duration="4921000" />
+      <workItem from="1675801721258" duration="321000" />
+      <workItem from="1675802795530" duration="2269000" />
+      <workItem from="1675805139596" duration="85000" />
+      <workItem from="1675867355290" duration="4536000" />
+      <workItem from="1675872434833" duration="476000" />
+      <workItem from="1675872920026" duration="84000" />
+      <workItem from="1675873011822" duration="25000" />
+      <workItem from="1675947135255" duration="6258000" />
+      <workItem from="1675954252317" duration="24000" />
+      <workItem from="1675963386454" duration="436000" />
+      <workItem from="1679606816365" duration="69000" />
+      <workItem from="1689024018252" duration="10000" />
+      <workItem from="1689024047459" duration="2120000" />
+      <workItem from="1697052371676" duration="15000" />
+      <workItem from="1710274563962" duration="117000" />
+      <workItem from="1710275869778" duration="52000" />
+      <workItem from="1710799940227" duration="8000" />
+      <workItem from="1710799977408" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
