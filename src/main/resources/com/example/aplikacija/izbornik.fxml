@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="28.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.aplikacija.IzbornikController">
+   <children>
+      <MenuBar layoutY="1.0" prefHeight="26.0" prefWidth="600.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="Turisti">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#showPretragaTuristaScreen" text="Pretraga" />
+                <MenuItem mnemonicParsing="false" onAction="#showUlazakTuristaScreen" text="Ulazak" />
+                <MenuItem mnemonicParsing="false" onAction="#showIzlazakTuristaScreen" text="Izlazak" />
+              <MenuItem mnemonicParsing="false" onAction="#showUredjivanjeTuristaScreen" text="Uređivanje" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Osobe u tranzitu">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#showPretragaOsobaUTranzituScreen" text="Pretraga" />
+                <MenuItem mnemonicParsing="false" onAction="#showUlazakOsobeUTranzituScreen" text="Ulazak" />
+                <MenuItem mnemonicParsing="false" onAction="#showIzlazakOsobeUTranzituScreen" text="Izlazak" />
+              <MenuItem mnemonicParsing="false" onAction="#showUredjivanjeOsobeUTranzituScreen" text="Uređivanje" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Strane osobe">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#showPregledStranihOsobaScreen" text="Pregled" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Promjene">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#showPregledPromjenaScreen" text="Pregled" />
+            </items>
+          </Menu>
+            <Menu fx:id="sluzbeniciMenu" mnemonicParsing="false" text="Službenici">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#showPretragaSluzbenikaScreen" text="Pretraga" />
+                <MenuItem mnemonicParsing="false" onAction="#showUnosSluzbenikaScreen" text="Unos" />
+                <MenuItem mnemonicParsing="false" onAction="#showUklanjanjeSluzbenikaScreen" text="Uklanjanje" />
+                <MenuItem mnemonicParsing="false" onAction="#showUredjivanjeSluzbenikaScreen" text="Uređivanje" />
+              </items>
+            </Menu>
+        </menus>
+      </MenuBar>
+   </children>
+</AnchorPane>
